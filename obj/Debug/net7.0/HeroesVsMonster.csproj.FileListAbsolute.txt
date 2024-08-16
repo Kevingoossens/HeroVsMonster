@@ -1,0 +1,45 @@
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.deps.json
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.runtimeconfig.json
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.dll
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.pdb
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.csproj.AssemblyReference.cache
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.AssemblyInfoInputs.cache
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.AssemblyInfo.cs
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.csproj.CoreCompileInputs.cache
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.dll
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/refint/HeroesVsMonsterV2.dll
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.pdb
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.genruntimeconfig.cache
+/Users/Kevlar/Projects/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/ref/HeroesVsMonsterV2.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.deps.json
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.runtimeconfig.json
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/bin/Debug/net7.0/HeroesVsMonsterV2.pdb
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.AssemblyInfoInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.AssemblyInfo.cs
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.csproj.CoreCompileInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/refint/HeroesVsMonsterV2.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.pdb
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.genruntimeconfig.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/ref/HeroesVsMonsterV2.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonsterV2/HeroVsMonsterV2/obj/Debug/net7.0/HeroesVsMonsterV2.sourcelink.json
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/bin/Debug/net7.0/HeroesVsMonster
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/bin/Debug/net7.0/HeroesVsMonster.deps.json
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/bin/Debug/net7.0/HeroesVsMonster.runtimeconfig.json
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/bin/Debug/net7.0/HeroesVsMonster.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/bin/Debug/net7.0/HeroesVsMonster.pdb
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.AssemblyInfoInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.AssemblyInfo.cs
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.csproj.CoreCompileInputs.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.sourcelink.json
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/refint/HeroesVsMonster.dll
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.pdb
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/HeroesVsMonster.genruntimeconfig.cache
+/Users/Kevlar/Documents/Documents - Mac/C#/HeroVsMonster/HeroVsMonster/obj/Debug/net7.0/ref/HeroesVsMonster.dll
